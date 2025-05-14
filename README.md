@@ -1,4 +1,4 @@
-# Space Invaders Game with Sprites and Barriers
+# Space Invaders
 This program is a Python-based implementation of the classic Space Invaders game using the Tkinter library for the graphical interface. It features a player-controlled spaceship, enemy invaders, and destructible barriers. The game also incorporates sprites (images) for the player, enemies, and bullets. Below are the key functionalities of the game:
 
 1. Player Controls and Movement
